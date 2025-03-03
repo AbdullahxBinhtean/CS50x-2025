@@ -1,4 +1,4 @@
-# CS50x 2025
+# About Me
 Abdullah Binhtean. Up-to-date programmer and graphic designer.
 
 I have created and designed GPS50 2.0 Project, and about 20 advanced projects which includes ( C++ - Python - HTML ) languages.
